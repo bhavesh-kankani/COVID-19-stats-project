@@ -1,6 +1,6 @@
 {
     "name": "covid-19-stats-project",
-    "homepage": "http://bhavesh-kankani.github.io/covid-19-stats-project",
+    "homepage": "https://bhavesh-kankani.github.io/covid-19-stats-project",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
