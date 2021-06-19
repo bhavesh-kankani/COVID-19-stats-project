@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/github.io/covid-19-stats-project/static/css/main.30be2f4b.chunk.css",
+    "main.css": "/github.io/covid-19-stats-project/static/css/main.507ae480.chunk.css",
     "main.js": "/github.io/covid-19-stats-project/static/js/main.6ea1add8.chunk.js",
     "main.js.map": "/github.io/covid-19-stats-project/static/js/main.6ea1add8.chunk.js.map",
     "runtime-main.js": "/github.io/covid-19-stats-project/static/js/runtime-main.ee48fa7c.js",
@@ -10,7 +10,7 @@
     "static/js/2.5556e367.chunk.js.map": "/github.io/covid-19-stats-project/static/js/2.5556e367.chunk.js.map",
     "index.html": "/github.io/covid-19-stats-project/index.html",
     "static/css/2.15a7a700.chunk.css.map": "/github.io/covid-19-stats-project/static/css/2.15a7a700.chunk.css.map",
-    "static/css/main.30be2f4b.chunk.css.map": "/github.io/covid-19-stats-project/static/css/main.30be2f4b.chunk.css.map",
+    "static/css/main.507ae480.chunk.css.map": "/github.io/covid-19-stats-project/static/css/main.507ae480.chunk.css.map",
     "static/js/2.5556e367.chunk.js.LICENSE.txt": "/github.io/covid-19-stats-project/static/js/2.5556e367.chunk.js.LICENSE.txt",
     "static/media/corona.a71ca60e.jpg": "/github.io/covid-19-stats-project/static/media/corona.a71ca60e.jpg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.ee48fa7c.js",
     "static/css/2.15a7a700.chunk.css",
     "static/js/2.5556e367.chunk.js",
-    "static/css/main.30be2f4b.chunk.css",
+    "static/css/main.507ae480.chunk.css",
     "static/js/main.6ea1add8.chunk.js"
   ]
 }
