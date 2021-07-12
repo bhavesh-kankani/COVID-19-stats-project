@@ -124,9 +124,11 @@ class Global extends React.Component {
 				tableData.push([
 					items.Countries[i].Country,
 					items.Countries[i].TotalConfirmed,
-					items.Countries[i].TotalConfirmed -
-						(items.Countries[i].TotalRecovered +
-							items.Countries[i].TotalDeaths),
+					Math.abs(
+						items.Countries[i].TotalConfirmed -
+							(items.Countries[i].TotalRecovered +
+								items.Countries[i].TotalDeaths)
+					),
 					items.Countries[i].TotalRecovered,
 					items.Countries[i].TotalDeaths,
 				]);
